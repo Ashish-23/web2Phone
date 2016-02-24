@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">GCM Quickstart</string>
+    <string name="gcm_send_message">Token retrieved and sent to server! You can now use gcmsender to
+        send downstream messages to this app.</string>
+    <string name="registering_message">Generating InstanceID token...</string>
+    <string name="token_error_message">An error occurred while either fetching the InstanceID token,
+        sending the fetched token to the server or subscribing to the PubSub topic. Please try
+        running the sample again.</string>
+    <string name="gcm_defaultSenderId">356501837922</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="refresh">Refresh</string>
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_settings">Settings</string>
+    <string name="Settings">Settings</string>
+    <string name="deleteAll">Delete All</string>
+
+    <string name="pref_user_profile">User Account</string>
+    <string name="pref_update_setting">Update Settings</string>
+
+    <string name="pref_user_name">Change Email</string>
+    <string name="pref_user_name_summary">Set your Email</string>
+
+    <string name="pref_user_phone">Change Phone number</string>
+    <string name="pref_user_phone_summary">Set your Phonenumber</string>
+
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_password">Change Password</string>
+
+    <string name="title_activity_card_view">CardViewActivity</string>
+    <string name="cardview_contents">This is a CardView widget. CardView widgets can have
+        shadows and rounded corners.
+       e <font fgcolor="#FFFFFFFF">android:elevation</font>
+        attribute.
+        \n\nTo set the corner radius in your layouts, use the <font
+            fgcolor="#FFFFFFFF">card_view:cardCornerRadius</font> attribute.
+    </string>
+    <string name="cardview_radius_seekbar_text">Radius</string>
+    <string name="cardview_elevation_seekbar_text">Elevation</string>
+</resources>

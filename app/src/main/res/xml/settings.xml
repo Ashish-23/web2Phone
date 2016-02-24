@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="Up[date Account Settings" >
+        <Preference
+            android:key="key"
+            android:summary="change your email here"
+            android:title="@string/pref_user_name" />
+        <Preference
+            android:key="password"
+            android:summary="Change your password here"
+            android:title="@string/pref_password" />
+    </PreferenceCategory>
+
+
+
+</PreferenceScreen>
